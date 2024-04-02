@@ -2,6 +2,9 @@
 
 Welcome to Code Playground! This is a simple web application designed for testing and improving coding skills. You can write your code snippets in the provided text area, run them, and see the results instantly.
 
+![image](https://github.com/jihado-i/CodeEditor_-JavaScript-/assets/81075046/e680c5c4-54f8-4de9-986e-a87fd6e46cce)
+
+
 ## Live preview
 [ClickHere](https://jihado-i.github.io/CodeEditor_-JavaScript-/)
 
